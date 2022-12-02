@@ -276,7 +276,7 @@ submitButton.addEventListener('click', function(event){
   let engajamento =  document.getElementById("engajamento").value;
   let disponibilidade = document.getElementById("disponibilidade").value;
 
-  let alerta = "Tem algo faltando, por favor, confira as informações"
+  let alerta = "Tem algo faltando, por favor, confira as informações!"
 
 
   if( fullName == "" ) {
